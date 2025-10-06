@@ -1,0 +1,38 @@
+/* basis: dunne zwarte rand rond elk element */
+header, nav, main, section, article, aside, footer {
+    border: 1px solid black;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+/* header en footer nemen volledige breedte */
+header, footer {
+    width: 100%;
+}
+
+/* nav neemt de helft van de header */
+nav {
+    width: 50%;
+}
+
+/* hoofdinhoud in 2 kolommen */
+main {
+    display: flex;
+}
+
+/* section = 62% breedte */
+section {
+    width: 62%;
+}
+
+/* aside = 38% breedte */
+aside {
+    width: 38%;
+}
+
+/* articles met rode gestipte rand */
+article {
+    border: 1px dotted red;
+    margin: 5px 0;
+    padding: 5px;
+}

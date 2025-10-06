@@ -6,3 +6,4 @@
   * onderlijn enkel de ondertitel
   * zet de paragrafen op 1.2rem
   * geef de afbeelding een gestipte rode rand
+ 

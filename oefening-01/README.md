@@ -2,3 +2,4 @@
 - verander de achtergrondkleur van het body-element naar rood
 - zet het lettertype voor de titel op ‘Arial’
 - de kleur van de paragraaftekst zet je op blauw
+ 
